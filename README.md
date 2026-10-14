@@ -16,17 +16,17 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Desarrollador enfocado en **aplicaciones de escritorio** y **herramientas para el navegador**. Me gusta construir software ligero, bien organizado y fácil de mantener, sin dependencias innecesarias.
 
-- 🛠️ Trabajo con **C# / .NET**, **JavaScript** y **MySQL**
-- 🧩 Desarrollo extensiones de Chrome con **Manifest V3**
-- 📚 Aprendiendo y mejorando cada día: seguridad, arquitectura y buenas prácticas
+-  Trabajo con **C# / .NET**, **JavaScript** y **MySQL**
+-  Desarrollo extensiones de Chrome con **Manifest V3**
+-  Aprendiendo y mejorando cada día: seguridad, arquitectura y buenas prácticas
 
 ---
 
-## 🧰 Stack tecnológico
+##  Stack tecnológico
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Desarrollador enfocado en **aplicaciones de escritorio** y **herramientas para e
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ Desarrollador enfocado en **aplicaciones de escritorio** y **herramientas para e
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Desarrollador enfocado en **aplicaciones de escritorio** y **herramientas para e
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
 
