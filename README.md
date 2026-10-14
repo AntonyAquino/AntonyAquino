@@ -21,7 +21,7 @@
 Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**, enfocado en **aplicaciones de escritorio** y **herramientas para el navegador**. Me gusta construir software ligero, bien organizado y fácil de mantener, sin dependencias innecesarias.
 
 -  Trabajo con **C# / .NET**, **JavaScript** y **MySQL**
--  Desarrollo extensiones de Chrome con **Manifest V3**
+-  Desarrollo  **Web**
 -  Aprendiendo y mejorando cada día: seguridad, arquitectura y buenas prácticas
 
 ---
@@ -43,7 +43,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Lateral Panel Extension</h3>
+      <h3> Lateral Panel Extension</h3>
       <p>Panel lateral flotante para Chrome con acceso rápido a WhatsApp, Instagram, TikTok, Discord y más, estilo Opera. Sin dependencias externas.</p>
       <p>
         <img src="https://img.shields.io/badge/Chrome-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3" />
@@ -52,7 +52,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
       <a href="https://github.com/AntonyAquino/lateral-panel-extension">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Sistema de Inventario</h3>
+      <h3> Sistema de Inventario</h3>
       <p>Aplicación de escritorio para gestionar productos y usuarios, con login por roles y CRUD completo conectado a MySQL.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -64,7 +64,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Reportes de Ventas</h3>
+      <h3> Reportes de Ventas</h3>
       <p>Reportes dinámicos de ventas (producto más vendido, ingresos por producto y ventas por día) con exportación directa a Excel.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -74,7 +74,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
       <a href="https://github.com/AntonyAquino/reportsForm">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>✈️ Bitácora de Viajes</h3>
+      <h3> Bitácora de Viajes</h3>
       <p>Aplicación de escritorio para registrar, visualizar, editar y eliminar los viajes y lugares visitados.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -86,7 +86,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Portafolio Web</h3>
+      <h3> Portafolio Web</h3>
       <p>Sitio web personal con mis proyectos, publicado en Vercel.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -96,7 +96,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
       <a href="https://github.com/AntonyAquino/web">Ver repositorio →</a> · <a href="https://web-tau-two-49.vercel.app">Ver sitio →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Librería</h3>
+      <h3> Librería</h3>
       <p>Proyecto en preparación. Próximamente más detalles.</p>
       <p>
         <img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563eb?style=flat-square&labelColor=0d1117" alt="En desarrollo" />
@@ -108,7 +108,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 ---
 
-## 🐍 Contribuciones
+## Contribuciones
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
