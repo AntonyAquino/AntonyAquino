@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:2563eb&text=Steven%20Herrarte%20Aquino&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Desarrollador%20de%20software&descAlignY=60&descSize=18&animation=fadeIn" alt="Steven Herrarte Aquino" width="100%" />
 
 <a href="https://github.com/AntonyAquino">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Aplicaciones+de+escritorio+con+C%23+y+.NET;Extensiones+de+Chrome+(Manifest+V3);Bases+de+datos+con+MySQL;C%C3%B3digo+claro,+ligero+y+mantenible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Aplicaciones+de+escritorio+con+C%23+y+.NET;Extensiones+de+Chrome+(Manifest+V3);Bases+de+datos+con+MySQL;ERP+en+la+nube+con+Odoo+y+Docker;C%C3%B3digo+claro,+ligero+y+mantenible" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AntonyAquino&label=Visitas&color=2563eb&style=flat-square" alt="Visitas" />
 <a href="https://github.com/AntonyAquino?tab=followers"><img src="https://img.shields.io/github/followers/AntonyAquino?label=Seguidores&style=flat-square&color=2563eb&labelColor=0d1117" alt="Seguidores" /></a>
-<a href="https://github.com/AntonyAquino?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-6-2563eb?style=flat-square&labelColor=0d1117" alt="Repositorios" /></a>
+<a href="https://github.com/AntonyAquino?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-7-2563eb?style=flat-square&labelColor=0d1117" alt="Repositorios" /></a>
 
 </div>
 
@@ -18,9 +18,10 @@
 
 ##  Sobre mí
 
-Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**, enfocado en **aplicaciones de escritorio** y **herramientas para el navegador**. Me gusta construir software ligero, bien organizado y fácil de mantener, sin dependencias innecesarias.
+Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**, enfocado en **aplicaciones de escritorio**, **herramientas para el navegador** e **infraestructura en la nube**. Me gusta construir software ligero, bien organizado y fácil de mantener, sin dependencias innecesarias.
 
--  Trabajo con **C# / .NET**, **JavaScript** y **MySQL**
+-  Trabajo con **C# / .NET**, **JavaScript**, **MySQL** y **PostgreSQL**
+-  Despliego aplicaciones con **Docker** y **Docker Compose**
 -  Desarrollo  **Web**
 -  Aprendiendo y mejorando cada día: seguridad, arquitectura y buenas prácticas
 
@@ -30,9 +31,9 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql&theme=dark" alt="Lenguajes y datos" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres&theme=dark" alt="Lenguajes y datos" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,chrome,vercel&theme=dark" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,chrome,vercel&theme=dark" alt="Herramientas" />
 
 </div>
 
@@ -102,6 +103,19 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
         <img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563eb?style=flat-square&labelColor=0d1117" alt="En desarrollo" />
       </p>
       <a href="https://github.com/AntonyAquino/Libreria">Ver repositorio →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3> ERP en la nube con Odoo</h3>
+      <p>ERP completo desplegado en la nube con Docker Compose, Odoo 18 y PostgreSQL. Configuré CRM, Ventas, Compras, Inventario y Facturación para una tienda de tecnología, y probé el flujo completo: oportunidad, compra, recepción, venta, entrega y factura.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat-square&logo=github&logoColor=white" alt="Codespaces" />
+      </p>
+      <a href="https://github.com/AntonyAquino/odoo-erp">Ver repositorio →</a>
     </td>
   </tr>
 </table>
