@@ -33,7 +33,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres&theme=dark" alt="Lenguajes y datos" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,chrome,vercel&theme=dark" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,chrome&theme=dark" alt="Herramientas" />
 
 </div>
 
@@ -88,13 +88,13 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
   <tr>
     <td width="50%" valign="top">
       <h3> Portafolio Web</h3>
-      <p>Sitio web personal con mis proyectos, publicado en Vercel.</p>
+      <p>Sitio web personal con mis proyectos, publicado en GitHub Pages.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
-      <a href="https://github.com/AntonyAquino/web">Ver repositorio →</a> · <a href="https://web-tau-two-49.vercel.app">Ver sitio →</a>
+      <a href="https://github.com/AntonyAquino/web">Ver repositorio →</a> · <a href="https://antonyaquino.github.io/web/">Ver sitio →</a>
     </td>
     <td width="50%" valign="top">
       <h3> Librería</h3>
