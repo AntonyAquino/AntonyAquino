@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:2563eb&text=Steven%20Herrarte%20Aquino&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Desarrollador%20de%20software&descAlignY=60&descSize=18&animation=fadeIn" alt="Steven Herrarte Aquino" width="100%" />
 
 <a href="https://github.com/AntonyAquino">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Aplicaciones+de+escritorio+con+C%23+y+.NET;Extensiones+de+Chrome+(Manifest+V3);Bases+de+datos+con+MySQL;ERP+en+la+nube+con+Odoo+y+Docker;C%C3%B3digo+claro,+ligero+y+mantenible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Aplicaciones+de+escritorio+con+C%23+y+.NET;Extensiones+de+Chrome+(Manifest+V3);Bases+de+datos+con+MySQL;ERP+en+la+nube+con+Odoo+y+Docker;Automatizaci%C3%B3n+con+Python+e+IA;C%C3%B3digo+claro,+ligero+y+mantenible" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AntonyAquino&label=Visitas&color=2563eb&style=flat-square" alt="Visitas" />
 <a href="https://github.com/AntonyAquino?tab=followers"><img src="https://img.shields.io/github/followers/AntonyAquino?label=Seguidores&style=flat-square&color=2563eb&labelColor=0d1117" alt="Seguidores" /></a>
-<a href="https://github.com/AntonyAquino?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-7-2563eb?style=flat-square&labelColor=0d1117" alt="Repositorios" /></a>
+<a href="https://github.com/AntonyAquino?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-9-2563eb?style=flat-square&labelColor=0d1117" alt="Repositorios" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
 
 -  Trabajo con **C# / .NET**, **JavaScript**, **MySQL** y **PostgreSQL**
 -  Despliego aplicaciones con **Docker** y **Docker Compose**
--  Desarrollo  **Web**
+-  Desarrollo **web** y automatización de procesos con **Python** e IA
 -  Aprendiendo y mejorando cada día: seguridad, arquitectura y buenas prácticas
 
 ---
@@ -116,6 +116,18 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez**,
         <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat-square&logo=github&logoColor=white" alt="Codespaces" />
       </p>
       <a href="https://github.com/AntonyAquino/odoo-erp">Ver repositorio →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3> FX Images</h3>
+      <p>Aplicación de escritorio en Python que automatiza la carga de productos: convierte las fotos del cliente a WebP, mejora la luz, quita el fondo y crea cada producto como borrador en la tienda desde una hoja de Excel. Una IA sugiere nombres y elige las mejores fotos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/IA-2563eb?style=flat-square&labelColor=0d1117" alt="IA" />
+        <img src="https://img.shields.io/badge/REST%20API-181717?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      </p>
+      <a href="https://github.com/AntonyAquino/fximageswordpres">Ver repositorio →</a>
     </td>
   </tr>
 </table>
